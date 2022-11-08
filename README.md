@@ -5,9 +5,9 @@
 <h1 align="center">Hi, I'm Hoang Nhat Anh Nguyen<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
 
-- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+- 🌱 I’m currently learning **To be a Data Analyst** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
-- 👯 I’m looking to collaborate on **Spring Framework**
+- 🎓 **Bachelor of Infomation Technologies** ( King's Own Institution), **Bachelor of Accounting** ( Universal Business School Sydney), **Bachelor of Business** ( University of Technology)
 
 - 🤝 I’m looking for help with **Backend Design**
 
@@ -106,8 +106,8 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Elanza-48)
+[![](https://github-readme-stats.vercel.app/api?username=Joenguyen1608&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Joenguyen1608)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Joenguyen1608&theme=material-palenight)](https://github.com/Joenguyen1608)
 </div>
 
 ----
