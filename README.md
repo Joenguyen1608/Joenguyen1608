@@ -9,13 +9,11 @@
 
 - 🎓 **Bachelor of Infomation Technologies** ( King's Own Institution), **Bachelor of Accounting** ( Universal Business School Sydney), **Bachelor of Business** ( University of Technology)
 
-- 🤝 I’m looking for help with **Backend Design**
+- 🤝 Achieved SQL (Intermediate) Skills Certification Test by [HackerRank](https://www.hackerrank.com/certificates/iframe/acd5400bfafb)
 
-- 👨‍💻 All of my projects are available [@Elanza-48](github.com/Elanza-48)
+- 🇦🇺 Visa : **Permanent Resident**
 
-- 💬 Ask me about **System Designs and Philosophy 😆**
-
-- ⚡ Fun fact **Coding is a passion and not profession.**
+- 👨‍💻 Checkout my [Projects](https://public.tableau.com/app/profile/hoang.nhat.anh.nguyen/viz/SydneyPropertyMarket2016-2021/MAINDB)
 
 
 ---
