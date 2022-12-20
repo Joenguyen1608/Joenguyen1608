@@ -13,7 +13,7 @@
 
 - 🇦🇺 Visa : **Permanent Resident**
 
-- 👨‍💻 Checkout my [Projects](https://public.tableau.com/app/profile/hoang.nhat.anh.nguyen/viz/SydneyPropertyMarket2016-2021/MAINDB)
+- 👨‍💻 Checkout my [Projects](https://github.com/Joenguyen1608?tab=repositories)
 
 
 ---
